@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class Main {
     static Insert insert = new Insert();
     static Select select = new Select();
+    static Update update = new Update();
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
@@ -14,6 +15,7 @@ public class Main {
 
         }
         select.selectInformatica();
+        update.updateVentas();
 
     }
 
