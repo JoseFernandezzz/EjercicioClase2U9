@@ -1,0 +1,5 @@
+
+³
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(¯îµ‰8ô¥¾ªü1J$6a7b3d27-3740-43c4-8575-bc14d2465a48
+”	java:S101	"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(«ŠžÊúÿÿÿÿ8™ØÄªü1J$fb819f4d-018f-4eaa-a00a-53df205d0394
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ŸÊ¸“þÿÿÿÿ8ö¥¾ªü1J$99ebb189-4982-4cc9-ba51-8ca11431c84c

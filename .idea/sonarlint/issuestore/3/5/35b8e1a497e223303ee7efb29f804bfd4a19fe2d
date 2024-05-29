@@ -1,0 +1,10 @@
+
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ŸÊ¸“þÿÿÿÿJ$6527eddd-c8c6-4b12-b9b0-31d0c2f2b172
+‚
+java:S1118":Add a private constructor to hide the implicit public one.(•ÝµÃýÿÿÿÿ8¬¶®§ü1J$c97d3f17-1b72-416e-9ef6-a9cc6c246318
+y
+java:S6437"6Revoke and change this password, as it is compromised.(‘úîª8¶¶®§ü1J$777f13a0-fb9d-40e0-bbf6-9d7b7ea8c0aa
+m	java:S106"+Replace this use of System.out by a logger.(ˆõ¹€8º¶®§ü1J$2cbbaa24-2a9b-4935-914e-964224f8e393
+r	java:S106"+Replace this use of System.out by a logger.(×Ã¾Óþÿÿÿÿ8º¶®§ü1J$ba93bd4d-d465-4b86-83c9-db360c022474
+q
+java:S1068"/Remove this unused "CONTROLADOR" private field.(ü•Ï<8¼¶®§ü1J$e8c3a7e0-b2b0-43b0-8056-2cdef82ea54d
